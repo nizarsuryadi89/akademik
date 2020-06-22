@@ -1,0 +1,4 @@
+[22-Apr-2017 02:41:25 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ngaj9466/public_html/smknu-tasik/login/kurikulum/pages/report/transkrip-nilai.php on line 2
+[22-Apr-2017 02:41:25 UTC] PHP Fatal error:  Call to a member function query() on boolean in /home/ngaj9466/public_html/smknu-tasik/login/kurikulum/pages/report/transkrip-nilai.php on line 5
+[22-Apr-2017 02:43:34 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ngaj9466/public_html/smknu-tasik/login/kurikulum/pages/report/transkrip-nilai.php on line 2
+[22-Apr-2017 02:43:34 UTC] PHP Fatal error:  Call to a member function query() on boolean in /home/ngaj9466/public_html/smknu-tasik/login/kurikulum/pages/report/transkrip-nilai.php on line 5

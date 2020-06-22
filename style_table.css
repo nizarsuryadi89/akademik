@@ -1,0 +1,85 @@
+td,th,input,textarea,select,button,.IAO_WorkflowResponse input {
+font-family: Tahoma, Verdana, Arial, Helvetica, Sans-Serif;
+color:#000000;
+font-size:12px;
+}
+input,textarea,select,button,.IAO_WorkflowResponse input
+{background-color:#EEEEFF}
+.counter{
+font-family: Tahoma, Verdana, Arial, Helvetica, Sans-Serif;
+color:#D5D0BD;
+font-size:12px;
+}
+a {
+	color: #3300FF;
+	text-decoration: none;
+}
+a:hover {
+	color : #ffffff;
+	text-decoration : underline;
+	background: #3399FF;
+
+}
+a:active {
+	color : #000000;
+	text-decoration : underline;
+	
+}
+button.but_disable {
+		color: #d5d5d5;
+		border: 1px solid #d5d5d5;
+		font-weight: bold;
+}
+button.but_enable {
+		color: #000;
+		border: 1px solid #000;
+		font-weight: bold;
+}
+table.xlogin {
+	background: transparent url(../images/medmark.jpg) repeat;
+}
+
+table.laporan {
+	background-color: #f9f9f9;
+	border: solid 0px #d5d5d5;
+	padding: 1px;
+	border-collapse: collapse;
+}
+table.laporan th {
+	font-size: 11px;
+	padding-top: 1px;
+	padding-bottom: 1px;
+	padding-left: 1px;
+	padding-right: 1px;
+	text-align: center;
+	height: 25px;
+	background-color: #2675a9;
+	background-repeat: repeat;
+	color: #FFFFFF;	
+}
+table.laporan td {
+	font-family : "Trebuchet MS", Arial, Helvetica, sans-serif;
+	padding: 1px;
+	font-size: 11px;
+	height: 20px;	
+}
+table.laporan td.editor {
+	font-size: 8px;
+}
+table.laporan2 {
+	background-color: #f9f9f9;
+	border: solid 1px #d5d5d5;
+	padding: 1px;
+}
+table.laporan2 th {
+	font-size: 11px;
+	padding-top: 1px;
+	padding-bottom: 1px;
+	padding-left: 1px;
+	padding-right: 1px;
+	text-align: center;
+	height: 25px;
+	background-color: #2675a9;
+	background-repeat: repeat;
+	color: #FFFFFF;
+}
